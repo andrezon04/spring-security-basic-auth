@@ -1,4 +1,18 @@
-# Spring Boot — Estudo de autenticação
+<div align="center">
+
+# Autenticação com Spring Security
+
+Um laboratório de HTTP Basic, BCrypt e controle de acesso.
+
+  <img alt="Java 25" src="https://img.shields.io/badge/Java%2025-1a1b27?style=flat-square" />
+  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-1a1b27?style=flat-square" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square" />
+
+**Projeto de estudo**
+
+</div>
+
+---
 
 Projeto de estudo de autenticação HTTP Basic, persistência de usuários e codificação de senhas com BCrypt.
 
@@ -74,4 +88,3 @@ bash mvnw test
 ```
 
 Os testes Spring dependem da configuração de banco de dados. A existência de um teste de contexto não comprova, por si só, o funcionamento das regras de autorização.
-
