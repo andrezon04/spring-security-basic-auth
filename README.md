@@ -41,8 +41,8 @@ Java 25, Spring Boot 4.0.5, Spring Security, Spring Data JPA, MySQL, Lombok e Ma
 2. Clone o repositório:
 
 ```bash
-git clone https://github.com/andrezon04/springboot-security-config.git
-cd springboot-security-config
+git clone https://github.com/andrezon04/spring-security-basic-auth.git
+cd spring-security-basic-auth
 ```
 
 3. Crie o banco:
