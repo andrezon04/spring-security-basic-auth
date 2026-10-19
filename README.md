@@ -16,6 +16,12 @@ Um laboratório de HTTP Basic, BCrypt e controle de acesso.
 
 Projeto de estudo de autenticação HTTP Basic, persistência de usuários e codificação de senhas com BCrypt.
 
+## Foco técnico
+
+- Configuração inicial de HTTP Basic com Spring Security.
+- Codificação de senhas com BCrypt e carregamento de usuários pelo e-mail.
+- Estudo de perfis de acesso; a restrição administrativa ainda requer o ajuste descrito ao final.
+
 ## Tecnologias
 
 Java 25, Spring Boot 4.0.5, Spring Security, Spring Data JPA, MySQL, Lombok e Maven Wrapper.
